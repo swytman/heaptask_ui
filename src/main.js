@@ -6,8 +6,10 @@ import axios from 'axios';
 import router from './router';
 import store from './store';
 import VueAxios from 'vue-axios';
+import VeeValidate from 'vee-validate';
 Vue.use(VueAxios, axios);
 Vue.use(Vuetify);
+Vue.use(VeeValidate)
 import App from './components/App.vue';
 import {formatDate} from './utils'
 

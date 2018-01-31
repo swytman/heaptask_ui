@@ -27,6 +27,11 @@
           >
             Войти
           </v-btn>
+          <v-btn
+              :to="{ name: 'RegistrationPage' }"
+          >
+            Регистрация
+          </v-btn>
         </div>
       </v-card>
     </v-flex>
@@ -59,8 +64,9 @@
       ...mapActions([
         'authenticate',
       ]),
-      login(){
-        this.authenticate(this.form)
+      async login(){
+        let result = await this.authenticate(this.form);
+        if (result) this.$router.push({name: 'TasksList'});
       },
     },
     created(){

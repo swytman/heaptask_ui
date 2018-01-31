@@ -14,13 +14,27 @@ const getters = {
 const actions = {
   async authenticate({commit}, data){
     const response = await userapi.authenticate(data)
-    commit(types.RECEIVE_TOKEN, response)
+    if (response){
+      commit(types.RECEIVE_TOKEN, response)
+      return true
+    }
+    return false
+  },
+  async create({commit}, data){
+    const response = await userapi.create(data)
+    if (response){
+      commit(types.RECEIVE_TOKEN, response)
+      console.log(2)
+      return true
+    }
+    return false
   }
 }
 
 // mutations
 const mutations = {
   [types.RECEIVE_TOKEN] (state, { auth_token }) {
+    console.log(auth_token)
     if (auth_token) {
       state.loggen_in = true
       localStorage.setItem('auth_token', auth_token)

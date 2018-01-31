@@ -9,12 +9,11 @@ axios.defaults.headers.common['Authorization'] = localStorage.getItem('auth_toke
 axios.interceptors.response.use(function (response) {
   return response;
 }, function (error) {
-  if (401 === error.response.status) {
-    console.log('intercept!')
-    // router.push({name: 'LoginPage'})
-  } else {
-    return Promise.reject(error);
+  if (401 === error.response.status){
+    localStorage.removeItem('auth_token')
+    router.push({name: 'LoginPage'})
   }
+  return Promise.reject(error);
 });
 
 
