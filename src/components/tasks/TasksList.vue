@@ -1,10 +1,10 @@
 <template>
-  <v-container grid-list-md text-xs-center>
-    <v-layout row wrap>
-      <v-flex xs12 sm12>
-        <div class="display-1">Дела</div>
-      </v-flex>
-    </v-layout>
+  <v-container grid-list-md text-xs-center class="pa-0">
+    <!--<v-layout row wrap>-->
+      <!--<v-flex xs12 sm12>-->
+        <!--<div class="display-1">Дела</div>-->
+      <!--</v-flex>-->
+    <!--</v-layout>-->
 
 
     <v-layout class="hidden-xs-only">
@@ -55,9 +55,9 @@
       <template v-for="item in items">
         <v-layout >
           <v-flex xs12>
-            <v-card>
+            <v-card flat>
               <router-link class="items-list_title" :to="{name: 'EditTask', params: { id: item.id }}">
-                <v-card-title class="cyan lighten-4">
+                <v-card-title class="orange lighten-3">
 
                     <span>
                       {{ item.name }}
@@ -119,7 +119,7 @@
       ])
     },
     created(){
-      console.log('created!')
+
       this.getAllTasks()
     }
   }

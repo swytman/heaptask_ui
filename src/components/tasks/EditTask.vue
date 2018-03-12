@@ -1,19 +1,18 @@
 <template>
   <v-container grid-list-md text-xs-center>
-    <router-link :to="{ name: 'TasksList' }">Return to Items</router-link>
-      <v-form v-model="valid" ref="form" lazy-validation  v-if="item">
-        <form-fields></form-fields>
-      </v-form>
-      <v-btn
-          color="red"
-          dark
-          fab
-          fixed
-          bottom
-          @click="deleteItem"
-      >
-        <v-icon>close</v-icon>
-      </v-btn>
+    <v-form v-model="valid" ref="form" lazy-validation  v-if="item">
+      <form-fields></form-fields>
+    </v-form>
+    <v-btn
+        color="red"
+        dark
+        fab
+        fixed
+        bottom
+        @click="deleteItem"
+    >
+      <v-icon>close</v-icon>
+    </v-btn>
     <v-btn
         color="success"
         dark

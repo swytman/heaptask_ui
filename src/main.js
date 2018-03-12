@@ -20,15 +20,6 @@ new Vue({
     render: h => h(App)
 });
 
-// router.beforeEach((to, from, next) => {
-//   console.log(to)
-//   if (!store.getters.logged_in && to.path!='/login'){
-//     next({ path: '/login'});
-//   } else {
-//     next();
-//   }
-// });
-
 Vue.filter('formatDate', formatDate)
 
 Vue.config.devtools = true;

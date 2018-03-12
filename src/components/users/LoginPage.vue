@@ -2,8 +2,8 @@
   <v-layout justify-center align-center>
     <v-flex xs10 sm8 md6 lg4>
       <v-card flat ref="form">
-        <v-card-title class="login__title mt-5">
-          <h3 class="headline mb-0">Войдите</h3>
+        <v-card-title class="login__title mt-4">
+          <span class="title mb-0">Войдите</span>
         </v-card-title>
         <v-card-text>
           <v-text-field
@@ -66,7 +66,9 @@
       ]),
       async login(){
         let result = await this.authenticate(this.form);
-        if (result) this.$router.push({name: 'TasksList'});
+        if (result){
+          this.$router.push({name: 'TasksList'});
+        }
       },
     },
     created(){

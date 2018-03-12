@@ -3,8 +3,8 @@
     <v-layout justify-center align-center>
       <v-flex xs10 sm8 md6 lg4>
         <v-card flat ref="form">
-          <v-card-title class="login__title mt-5">
-            <h3 class="headline mb-0">Регистрация</h3>
+          <v-card-title class="login__title mt-4">
+            <span class="title mb-0">Регистрация</span>
           </v-card-title>
           <v-card-text>
             <v-text-field
@@ -89,7 +89,6 @@
       },
       async createAccount(){
         let result = await this.create({user: this.form});
-        console.log(result);
         if (result) this.$router.push({name: 'TasksList'});
       },
     },
@@ -101,6 +100,6 @@
 
 <style>
   .login__title{
-    background-color: #6eecff;
+    background-color: #ffcc80;
   }
 </style>
