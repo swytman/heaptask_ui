@@ -1,4 +1,4 @@
-require('../../stylus/components/_chips.styl')
+import '../../stylus/components/_chips.styl'
 
 import VIcon from '../VIcon'
 import Colorable from '../../mixins/colorable'
@@ -7,10 +7,6 @@ import Toggleable from '../../mixins/toggleable'
 
 export default {
   name: 'v-chip',
-
-  components: {
-    VIcon
-  },
 
   mixins: [Colorable, Themeable, Toggleable],
 
@@ -43,7 +39,7 @@ export default {
       })
 
       return (this.textColor || this.outline)
-        ? this.addTextColorClassChecks(classes, this.textColor ? 'textColor' : 'color')
+        ? this.addTextColorClassChecks(classes, this.textColor || this.color)
         : classes
     }
   },

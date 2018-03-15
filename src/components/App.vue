@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app id="heaptask-ui">
     <v-navigation-drawer
         fixed
         clipped
@@ -46,7 +46,7 @@
 <script>
     export default{
       data: () => ({
-        drawer: null,
+        drawer: false,
         items: [
           { title: 'Дела', route: 'TasksList', icon: 'business_center' }
         ]
