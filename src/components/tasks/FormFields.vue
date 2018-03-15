@@ -7,7 +7,7 @@
         required
     ></v-text-field>
     <v-dialog
-
+        ref="start_dialog"
         persistent
         v-model="modalStart"
         lazy
@@ -29,16 +29,13 @@
           first-day-of-week="1"
           locale="ru-RU"
       >
-        <template slot-scope="{ save, cancel }">
-          <v-card-actions>
-            <v-spacer></v-spacer>
-            <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
-            <v-btn flat color="primary" @click="save">OK</v-btn>
-          </v-card-actions>
-        </template>
+        <v-spacer></v-spacer>
+        <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
+        <v-btn flat color="primary" @click="$refs.start_dialog.save(item.start)">OK</v-btn>
       </v-date-picker>
     </v-dialog>
     <v-dialog
+        ref = "end_dialog"
         first-day-of-week="1"
         locale="ru-RU"
         persistent
@@ -62,13 +59,9 @@
         first-day-of-week="1"
         locale="ru-RU"
       >
-        <template slot-scope="{ save, cancel }">
-          <v-card-actions>
-            <v-spacer></v-spacer>
-            <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
-            <v-btn flat color="primary" @click="save">OK</v-btn>
-          </v-card-actions>
-        </template>
+        <v-spacer></v-spacer>
+        <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
+        <v-btn flat color="primary" @click="$refs.end_dialog.save(item.end)">OK</v-btn>
       </v-date-picker>
     </v-dialog>
     <v-text-field

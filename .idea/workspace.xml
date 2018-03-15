@@ -2,232 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3abbc4-002c-4407-bc17-e5e22fede5fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ezen.iml" afterPath="$PROJECT_DIR$/.idea/ezen.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/AUTHORS" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/CHANGES.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/assert.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/assert-plus/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/BACKERS.md" afterPath="$PROJECT_DIR$/node_modules/vuetify/BACKERS.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/README.md" afterPath="$PROJECT_DIR$/node_modules/vuetify/README.md" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/dist/vuetify.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/dist/vuetify.min.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAlert/VAlert.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAlert/VAlert.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAlert/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAlert/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/VApp.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/VApp.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/mixins/app-breakpoint.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/mixins/app-breakpoint.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/mixins/app-theme.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VApp/mixins/app-theme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAvatar/VAvatar.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAvatar/VAvatar.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAvatar/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VAvatar/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBadge/VBadge.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBadge/VBadge.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBadge/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBadge/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomNav/VBottomNav.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomNav/VBottomNav.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomNav/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomNav/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomSheet/VBottomSheet.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomSheet/VBottomSheet.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomSheet/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBottomSheet/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/VBreadcrumbs.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/VBreadcrumbs.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/VBreadcrumbsItem.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/VBreadcrumbsItem.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBreadcrumbs/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtn/VBtn.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtn/VBtn.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtn/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtn/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtnToggle/VBtnToggle.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtnToggle/VBtnToggle.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtnToggle/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VBtnToggle/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCard.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCard.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCardMedia.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCardMedia.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCardTitle.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/VCardTitle.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCard/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/VCarousel.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/VCarousel.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/VCarouselItem.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/VCarouselItem.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCarousel/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCheckbox/VCheckbox.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCheckbox/VCheckbox.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCheckbox/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VCheckbox/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VChip/VChip.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VChip/VChip.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VChip/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VChip/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/VDataTable.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/VDataTable.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/VEditDialog.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/VEditDialog.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/body.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/body.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/foot.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/foot.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/head.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/head.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/progress.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDataTable/mixins/progress.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/VDatePicker.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/VDatePicker.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/mixins/date-header.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/mixins/date-table.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/mixins/date-title.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/mixins/date-years.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDatePicker/mixins/month-table.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDialog/VDialog.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDialog/VDialog.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDialog/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDialog/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDivider/VDivider.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDivider/VDivider.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDivider/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VDivider/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/VExpansionPanel.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/VExpansionPanel.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/VExpansionPanelContent.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/VExpansionPanelContent.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VExpansionPanel/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VFooter/VFooter.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VFooter/VFooter.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VFooter/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VFooter/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VForm/VForm.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VForm/VForm.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VForm/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VForm/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VContainer.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VContainer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VContent.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VContent.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VFlex.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VFlex.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VLayout.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/VLayout.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/grid.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/grid.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VGrid/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VIcon/VIcon.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VIcon/VIcon.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VIcon/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VIcon/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VList.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VList.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListGroup.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListGroup.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListTile.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListTile.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListTileAction.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/VListTileAction.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VList/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/VMenu.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/VMenu.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-activator.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-activator.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-generators.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-generators.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-keyable.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-keyable.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-position.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VMenu/mixins/menu-position.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VNavigationDrawer/VNavigationDrawer.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VNavigationDrawer/VNavigationDrawer.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VNavigationDrawer/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VNavigationDrawer/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VPagination/VPagination.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VPagination/VPagination.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VPagination/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VPagination/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VParallax/VParallax.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VParallax/VParallax.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VParallax/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VParallax/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressCircular/VProgressCircular.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressCircular/VProgressCircular.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressCircular/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressCircular/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressLinear/VProgressLinear.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressLinear/VProgressLinear.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressLinear/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VProgressLinear/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/VRadio.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/VRadio.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/VRadioGroup.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/VRadioGroup.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VRadioGroup/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/VSelect.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/VSelect.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-autocomplete.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-autocomplete.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-computed.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-computed.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-events.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-events.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-generators.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-generators.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-helpers.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-helpers.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-menu.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-menu.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-props.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-props.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-watchers.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSelect/mixins/select-watchers.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSlider/VSlider.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSlider/VSlider.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSlider/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSlider/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSnackbar/VSnackbar.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSnackbar/VSnackbar.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSnackbar/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSnackbar/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSpeedDial/VSpeedDial.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSpeedDial/VSpeedDial.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSpeedDial/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSpeedDial/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepper.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepper.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepperContent.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepperContent.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepperStep.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/VStepperStep.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VStepper/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSubheader/VSubheader.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSubheader/VSubheader.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSubheader/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSubheader/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSwitch/VSwitch.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSwitch/VSwitch.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSwitch/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSwitch/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSystemBar/VSystemBar.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSystemBar/VSystemBar.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSystemBar/index.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VSystemBar/index.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTabs/VTabsBar.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTabs/VTabsContent.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTabs/VTabsItem.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTextField/VTextField.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTextField/VTextField.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTimePicker/mixins/time-body.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/VTimePicker/mixins/time-title.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/Vuetify/mixins/application.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/Vuetify/mixins/application.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/components/Vuetify/mixins/theme.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/es5/components/Vuetify/mixins/theme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/mixins/contextualable.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/util/pointerSupport.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/util/testing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/es5/util/to-have-been-warned.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/index.d.ts" afterPath="$PROJECT_DIR$/node_modules/vuetify/index.d.ts" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/package.json" afterPath="$PROJECT_DIR$/node_modules/vuetify/package.json" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VAlert/__snapshots__/VAlert.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VApp/__snapshots__/VApp.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VApp/mixins/app-breakpoint.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VApp/mixins/app-breakpoint.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VApp/mixins/app-theme.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VApp/mixins/app-theme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VAvatar/__snapshots__/VAvatar.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VBadge/__snapshots__/VBadge.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VBottomNav/__snapshots__/VBottomNav.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VBreadcrumbs/__snapshots__/VBreadcrumbs.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VBtn/__snapshots__/VBtn.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VBtnToggle/__snapshots__/VBtnToggle.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VCard/__snapshots__/VCard.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VCard/__snapshots__/VCardMedia.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VCard/__snapshots__/VCardTitle.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VCarousel/__snapshots__/VCarousel.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VCarousel/__snapshots__/VCarouselItem.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VChip/__snapshots__/VChip.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/__snapshots__/VDataTable.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/body.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/body.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/foot.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/foot.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/head.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/head.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/progress.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDataTable/mixins/progress.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/__snapshots__/VDatePicker.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/mixins/date-header.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/mixins/date-table.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/mixins/date-title.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/mixins/date-years.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDatePicker/mixins/month-table.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDialog/__snapshots__/VDialog.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VDivider/__snapshots__/VDivider.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VList/__snapshots__/VList.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VList/__snapshots__/VListGroup.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VList/__snapshots__/VListTile.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VList/__snapshots__/VListTileAction.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/__snapshots__/VMenu.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-generators.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-generators.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-keyable.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-keyable.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-position.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VMenu/mixins/menu-position.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VPagination/__snapshots__/VPagination.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VParallax/__snapshots__/VParallax.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VProgressCircular/__snapshots__/VProgressCircular.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VProgressLinear/__snapshots__/VProgressLinear.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VRadioGroup/__snapshots__/VRadio.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VRadioGroup/__snapshots__/VRadioGroup.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/__snapshots__/VSelect.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/__snapshots__/VSelect2.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-autocomplete.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-autocomplete.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-computed.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-computed.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-events.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-events.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-generators.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-generators.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-helpers.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-helpers.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-props.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-props.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-watchers.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSelect/mixins/select-watchers.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSlider/__snapshots__/VSlider.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VSpeedDial/__snapshots__/VSpeedDial.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTabs/VTabsBar.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTabs/VTabsContent.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTabs/VTabsItem.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTextField/__snapshots__/VTextField.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTimePicker/__snapshots__/VTimePicker.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTimePicker/mixins/time-body.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTimePicker/mixins/time-title.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VToolbar/__snapshots__/VToolbarSideIcon.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/VTooltip/__snapshots__/VTooltip.spec.js.snap" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/Vuetify/mixins/application.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/Vuetify/mixins/application.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/components/Vuetify/mixins/theme.js" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/components/Vuetify/mixins/theme.js" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/mixins/contextualable.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/components/_date-picker.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/components/_time-picker.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/elements/_global.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/elements/_global.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/generic/_transitions.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/generic/_transitions.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_colors.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_colors.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_elevations.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_elevations.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_theme.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_theme.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_variables.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/settings/_variables.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/tools/_animations.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/tools/_elevations.styl" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/trumps/_spacing.styl" afterPath="$PROJECT_DIR$/node_modules/vuetify/src/stylus/trumps/_spacing.styl" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/util/pointerSupport.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/util/testing.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vuetify/src/util/to-have-been-warned.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.vue" afterPath="$PROJECT_DIR$/src/components/App.vue" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" afterPath="$PROJECT_DIR$/dist/bundle.js" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change beforePath="$PROJECT_DIR$/src/api/tasks.js" afterPath="$PROJECT_DIR$/src/api/tasks.js" />
+      <change beforePath="$PROJECT_DIR$/src/components/tasks/FormFields.vue" afterPath="$PROJECT_DIR$/src/components/tasks/FormFields.vue" />
     </list>
     <ignored path="ezen.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -247,31 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginPage.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/users/LoginPage.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1278">
-              <caret line="71" column="8" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/modules/users.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EditTask.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/tasks/EditTask.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1008">
-              <caret line="58" column="8" lean-forward="false" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="8" />
+            <state relative-caret-position="450">
+              <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
               <folding>
                 <marker date="1520884221804" expanded="true" signature="320:331" ph="..." />
               </folding>
@@ -279,31 +37,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CreateTask.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/tasks/CreateTask.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-378">
+              <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store/modules/tasks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="216">
+              <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/tasks.js">
+      <file leaf-file-name="users.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/users.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegistrationPage.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/users/RegistrationPage.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+            <state relative-caret-position="144">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -319,6 +77,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tasks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/api/tasks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormFields.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/tasks/FormFields.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -329,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="612">
@@ -339,11 +117,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TasksList.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/tasks/TasksList.vue">
+      <file leaf-file-name="deploy.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deploy.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="37" lean-forward="false" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -394,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/store/mutation-types.js" />
         <option value="$PROJECT_DIR$/src/components/tasks/CreateTask.vue" />
         <option value="$PROJECT_DIR$/src/utils/index.js" />
-        <option value="$PROJECT_DIR$/src/components/tasks/FormFields.vue" />
         <option value="$PROJECT_DIR$/.babelrc" />
         <option value="$PROJECT_DIR$/bundle.js" />
         <option value="$PROJECT_DIR$/src/config/index.js" />
@@ -409,7 +186,6 @@
         <option value="$PROJECT_DIR$/dist/bundle.js" />
         <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/dist/index.html" />
-        <option value="$PROJECT_DIR$/src/components/tasks/FormFields.vue" />
         <option value="$PROJECT_DIR$/src/store/mutation-types.js" />
         <option value="$PROJECT_DIR$/src/store/index.js" />
         <option value="$PROJECT_DIR$/src/lib/index.js" />
@@ -422,7 +198,6 @@
         <option value="$PROJECT_DIR$/src/api/index.js" />
         <option value="$PROJECT_DIR$/src/api/users.js" />
         <option value="$PROJECT_DIR$/src/main.js" />
-        <option value="$PROJECT_DIR$/src/api/tasks.js" />
         <option value="$PROJECT_DIR$/src/api/requests.js" />
         <option value="$PROJECT_DIR$/src/components/tasks/EditTask.vue" />
         <option value="$PROJECT_DIR$/src/components/tasks/EditTask.vue" />
@@ -439,6 +214,9 @@
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/api/tasks.js" />
+        <option value="$PROJECT_DIR$/src/components/tasks/FormFields.vue" />
+        <option value="$PROJECT_DIR$/src/components/tasks/FormFields.vue" />
       </list>
     </option>
   </component>
@@ -483,50 +261,6 @@
             <path>
               <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
               <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="users" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ezen" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heaptask_ui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -709,12 +443,12 @@
       <workItem from="1517252602770" duration="15056000" />
       <workItem from="1517504190925" duration="9942000" />
       <workItem from="1520925622782" duration="1329000" />
-      <workItem from="1521115379190" duration="474000" />
+      <workItem from="1521115379190" duration="2165000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94826000" />
+    <option name="totallyTimeSpent" value="96517000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="75" y="199" width="1845" height="848" extended-state="0" />
@@ -944,20 +678,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tasks/CreateTask.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/router.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -989,43 +709,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/users.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/api/requests.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tasks/FormFields.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="80" column="11" lean-forward="true" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tasks/EditTask.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="58" column="8" lean-forward="false" selection-start-line="55" selection-start-column="6" selection-end-line="58" selection-end-column="8" />
-          <folding>
-            <marker date="1520884221804" expanded="true" signature="320:331" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1049,14 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/modules/tasks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1096,6 +775,64 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="34" column="23" lean-forward="false" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tasks/CreateTask.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="3" column="49" lean-forward="false" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tasks/EditTask.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="60" column="20" lean-forward="true" selection-start-line="60" selection-start-column="20" selection-end-line="60" selection-end-column="20" />
+          <folding>
+            <marker date="1520884221804" expanded="true" signature="320:331" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/modules/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/tasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tasks/FormFields.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -13,7 +13,7 @@ export default {
   },
   async updateTask(id, data) {
     const uri = `/tasks/${id}`;
-    const response = await requests.with_auth().patch(uri).catch( (error) => {})
+    const response = await requests.with_auth().patch(uri, data).catch( (error) => {})
     return (response ? response.data : false)
   },
   async deleteTask(id) {
