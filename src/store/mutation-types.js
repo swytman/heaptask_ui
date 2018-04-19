@@ -1,3 +1,7 @@
 export const RECEIVE_TASKS = 'RECEIVE_TASKS'
 export const RECEIVE_TASK  = 'RECEIVE_TASK'
 export const RECEIVE_TOKEN = 'RECEIVE_TOKEN'
+export const START_LOADING = 'START_LOADING'
+export const STOP_LOADING = 'STOP_LOADING'
+export const SHOW_MESSAGE = 'SHOW_MESSAGE'
+export const SET_MESSAGE = 'SET_MESSAGE'

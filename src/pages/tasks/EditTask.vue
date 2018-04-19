@@ -1,9 +1,18 @@
 <template>
   <v-container grid-list-md text-xs-center>
-    <router-link :to="{ name: 'TasksList' }">Return to Items</router-link>
     <v-form v-model="valid" ref="form" lazy-validation  v-if="item">
       <form-fields></form-fields>
     </v-form>
+    <v-btn
+        color="red"
+        dark
+        fab
+        fixed
+        bottom
+        @click="deleteItem"
+    >
+      <v-icon>close</v-icon>
+    </v-btn>
     <v-btn
         color="success"
         dark
@@ -11,8 +20,7 @@
         fixed
         bottom
         right
-        @click="createItem"
-        :disabled="!valid"
+        @click="updateItem"
     >
       <v-icon>check</v-icon>
     </v-btn>
@@ -20,21 +28,15 @@
 </template>
 
 <script>
-  import {formatDate} from '../../utils'
+  import {formatDate} from '../../utils/index'
   import FormFields from './FormFields.vue'
-  import { mapActions, mapGetters} from 'vuex'
+  import { mapGetters, mapActions } from 'vuex'
 
   export default{
     components: {FormFields},
     data(){
       return {
         valid: true,
-        task_template: {
-          name: '',
-          description: '',
-          start: null,
-          end: null
-        }
 
       }
     },
@@ -45,22 +47,29 @@
       })
     },
 
+
     methods: {
       formatDate(value){
         return formatDate(value)
       },
 
-      createItem(){
-        this.createTask(this.item)
+      async deleteItem(){
+        this.deleteTask(this.$route.params.id)
+        this.$router.push({ name: 'TasksList' })
+      },
+      async updateItem(){
+        await this.updateTask(this.item)
         this.$router.push({ name: 'TasksList' })
       },
       ...mapActions([
-        'createTask'
+        'getTask',
+        'updateTask',
+        'deleteTask'
       ]),
     },
 
     created: function () {
-      this.$store.commit("RECEIVE_TASK", {task: this.task_template})
+      this.getTask(this.$route.params.id);
     },
 
   }

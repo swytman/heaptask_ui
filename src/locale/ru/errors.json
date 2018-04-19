@@ -1,0 +1,8 @@
+{
+  "user_authentication": {
+    "invalid_credentials": "Неправильный пользователь или пароль"
+  },
+  "email": {
+    "has already been taken": "Email уже занят"
+  }
+}

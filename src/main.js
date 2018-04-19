@@ -10,7 +10,7 @@ import VeeValidate from 'vee-validate';
 Vue.use(VueAxios, axios);
 Vue.use(Vuetify);
 Vue.use(VeeValidate)
-import App from './components/App.vue';
+import App from './pages/App.vue';
 import {formatDate} from './utils'
 
 new Vue({

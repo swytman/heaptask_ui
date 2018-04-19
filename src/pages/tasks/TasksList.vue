@@ -119,7 +119,6 @@
       ])
     },
     created(){
-
       this.getAllTasks()
     }
   }

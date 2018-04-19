@@ -37,19 +37,31 @@
       </v-btn>
     </v-toolbar>
     <v-content>
+      <message></message>
+      <loader v-if="loading"></loader>
       <router-view>
+
         <v-container fluid></v-container>
       </router-view>
     </v-content>
   </v-app>
 </template>
 <script>
+    import Loader from '../components/common/Loader.vue'
+    import Message from '../components/common/Message.vue'
+    import { mapGetters } from 'vuex'
     export default{
+      components: {Loader, Message},
       data: () => ({
         drawer: false,
         items: [
           { title: 'Дела', route: 'TasksList', icon: 'business_center' }
         ]
-      })
+      }),
+      computed:{
+        ...mapGetters({
+            loading: 'loading'
+        })
+      },
     }
 </script>

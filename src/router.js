@@ -2,11 +2,11 @@ import Vue from 'vue';
 import VueRouter from 'vue-router';
 Vue.use(VueRouter);
 
-import CreateTask from './components/tasks/CreateTask.vue';
-import TasksList from './components/tasks/TasksList.vue';
-import EditTask from './components/tasks/EditTask.vue';
-import LoginPage from './components/users/LoginPage.vue';
-import RegistrationPage from './components/users/RegistrationPage.vue';
+import CreateTask from './pages/tasks/CreateTask.vue';
+import TasksList from './pages/tasks/TasksList.vue';
+import EditTask from './pages/tasks/EditTask.vue';
+import LoginPage from './pages/users/LoginPage.vue';
+import RegistrationPage from './pages/users/RegistrationPage.vue';
 
 // Для путей с параметрами передаем их чере props как рекомендуют здесь https://router.vuejs.org/ru/essentials/passing-props.html
 

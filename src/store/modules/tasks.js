@@ -14,25 +14,32 @@ const getters = {
 
 //actions
 const actions = {
-  async getAllTasks({commit}){
+  async getAllTasks({dispatch, commit}){
+    dispatch('startLoading')
     const tasks = await api.tasks.getAllTasks()
     commit(types.RECEIVE_TASKS, { tasks })
+    dispatch('stopLoading')
   },
-  async getTask({commit}, id){
+  async getTask({dispatch, commit}, id){
+    dispatch('startLoading')
     const task = await api.tasks.getTask(id)
     commit(types.RECEIVE_TASK, { task })
+    dispatch('stopLoading')
   },
   async updateTask({dispatch, commit},  data){
+    dispatch('startLoading')
     await api.tasks.updateTask(data.id, data)
-    dispatch('getAllTasks')
+    dispatch('stopLoading')
   },
   async deleteTask({dispatch, commit}, id){
+    dispatch('startLoading')
     await api.tasks.deleteTask(id)
-    dispatch('getAllTasks')
+    dispatch('stopLoading')
   },
   async createTask({dispatch, commit}, data){
+    dispatch('startLoading')
     await api.tasks.createTask(data)
-    dispatch('getAllTasks')
+    dispatch('stopLoading')
   }
 }
 

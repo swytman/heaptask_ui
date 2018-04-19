@@ -20,7 +20,7 @@
           v-model="formattedDateStart"
           append-icon="event"
           readonly
-          @blur="item.end = formatDate(formattedDateStart)"
+          @blur="item.start = formatDate(formattedDateStart)"
       ></v-text-field>
       <v-date-picker
           v-model="item.start"
@@ -30,7 +30,6 @@
           locale="ru-RU"
       >
         <v-spacer></v-spacer>
-        <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
         <v-btn flat color="primary" @click="$refs.start_dialog.save(item.start)">OK</v-btn>
       </v-date-picker>
     </v-dialog>
@@ -60,7 +59,6 @@
         locale="ru-RU"
       >
         <v-spacer></v-spacer>
-        <v-btn flat color="primary" @click="cancel">Cancel</v-btn>
         <v-btn flat color="primary" @click="$refs.end_dialog.save(item.end)">OK</v-btn>
       </v-date-picker>
     </v-dialog>
@@ -84,10 +82,9 @@
 
 <script>
   import { mapGetters } from 'vuex'
-  import {formatDate} from '../../utils'
+  import {formatDate} from '../../utils/index'
   export default{
     name: 'FormFields',
-
     data(){
       return {
         valid: true,
