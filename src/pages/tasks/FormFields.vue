@@ -20,11 +20,9 @@
           v-model="formattedDateStart"
           append-icon="event"
           readonly
-          @blur="item.start = formatDate(formattedDateStart)"
       ></v-text-field>
       <v-date-picker
           v-model="item.start"
-          @input="formattedDateStart = formatDate($event)"
           scrollable actions
           first-day-of-week="1"
           locale="ru-RU"
@@ -49,11 +47,9 @@
           :value="formattedDateEnd"
           append-icon="event"
           readonly
-          @blur="item.end = formatDate(formattedDateEnd)"
       ></v-text-field>
       <v-date-picker
         v-model="item.end"
-        @input="formattedDateEnd = formatDate($event)"
         scrollable actions
         first-day-of-week="1"
         locale="ru-RU"
@@ -90,8 +86,6 @@
         valid: true,
         modalStart: false,
         modalEnd: false,
-        formattedDateStart: null,
-        formattedDateEnd: null,
         nameRules: [
           v => !!v || 'Обязательное поле'
         ],
@@ -101,7 +95,24 @@
     computed:{
       ...mapGetters({
         item: 'task'
-      })
+      }),
+      formattedDateStart: {
+        set(value){
+            this.item.start = value;
+        },
+        get(){
+          return formatDate(this.item.start);
+        }
+      },
+      formattedDateEnd: {
+
+        set(value){
+          this.item.end = value;
+        },
+        get(){
+            return formatDate(this.item.end);
+        }
+      }
     },
 
     methods: {

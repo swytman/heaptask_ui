@@ -17,6 +17,7 @@
               name="password"
               v-model="form.password"
               label="Пароль"
+              @keyup.enter="login"
               type="password"
           ></v-text-field>
         </v-card-text>
@@ -71,9 +72,6 @@
         }
       },
     },
-    created(){
-
-    }
   }
 </script>
 
