@@ -1,3 +1,3 @@
 module.exports = {
-  API_ROOT: '"http://localhost:3000"'
+  API_ROOT: '"https://localhost:3000"'
 }
